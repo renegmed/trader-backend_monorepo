@@ -1,0 +1,9 @@
+Learn how to design and build production-ready Go applications
+using Clear Architecture, MongoDB and Docker 
+
+
+Section 1 - Introduction and Setup
+
+Section 2 - Architecture & MongoDB Integration 
+
+
