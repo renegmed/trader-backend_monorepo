@@ -6,4 +6,9 @@ Section 1 - Introduction and Setup
 
 Section 2 - Architecture & MongoDB Integration 
 
+  mongodb.com/docs/drivers/go/current/get-started/#std-label-go-get-started
+
+  $> go get go.mongodb.org/mongo-driver/v2/mongo
+
+
 

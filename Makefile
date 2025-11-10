@@ -6,3 +6,6 @@ down:
 
 init-project:
 	go mod init github.com/renegmed/trader-backend_monorepo
+
+test:
+	go test -race -v ./...
